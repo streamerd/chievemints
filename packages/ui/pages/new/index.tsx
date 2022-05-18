@@ -17,7 +17,9 @@ import { MetaMaskError, NestedError } from '../../lib/types'
 export const New: NextPage = () => (
   <Container maxW="full">
     <Head>
-      <title>’𝖈𝖍𝖎𝖊𝖛𝖊: Ⲛⲉⲱ Ⲧⲟⲕⲉⲛ</title>
+      {/* <title>’𝖈𝖍𝖎𝖊𝖛𝖊: Ⲛⲉⲱ Ⲧⲟⲕⲉⲛ</title> */}
+      <title>Claim Tokens</title>
+
     </Head>
     <chakra.header>
       <Flex justify="center">

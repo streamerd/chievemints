@@ -43,6 +43,8 @@ export const Edit: NextPage = () => {
     <Box>
       <Head>
         <title>’𝖈𝖍𝖎𝖊𝖛𝖊: Ⲉⲇⲓⲧ #{tokenId}</title>
+        <title>Claim Token Id #{tokenId}</title>
+
       </Head>
       <HomeLink/>
       <OptionsForm

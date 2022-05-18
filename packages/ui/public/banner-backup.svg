@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  viewBox="0 0 1280 640"
+  version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <image
+    preserveAspectRatio="none"
+    width="696.78394"
+    height="588.41241"
+    xlink:href="logo.svg"
+    x="1.9276004"
+    y="26.347517"
+  />
+  <image
+    preserveAspectRatio="none"
+    width="888.13837"
+    height="505.78195"
+    xlink:href="header.svg"
+    x="379.09073"
+    y="84.624832"
+  />
+</svg>
