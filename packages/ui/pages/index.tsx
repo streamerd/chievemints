@@ -106,10 +106,13 @@ const Home: NextPage = () => {
   return (
     <Container maxW="full">
       <Head>
-        <title>𝔐𝔢𝔱𝔞𝔊𝔞𝔪𝔢’𝔰 ’𝓒𝓱𝓲𝓮𝓿𝓮𝓶𝓲𝓷𝓽𝓼</title>
+        {/* <title>𝔐𝔢𝔱𝔞𝔊𝔞𝔪𝔢’𝔰 ’𝓒𝓱𝓲𝓮𝓿𝓮𝓶𝓲𝓷𝓽𝓼</title> */}
+        <title>SmartLaw Claim Tokens</title>
+
         <meta
           name="description"
-          content="MetaGame’s ’Chievemint NFTs"
+          // content="MetaGame’s ’Chievemint NFTs"
+          content="SmartLaw Claim Tokens"
         />
       </Head>
 

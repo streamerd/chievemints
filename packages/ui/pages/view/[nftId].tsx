@@ -75,11 +75,14 @@ const View: NextPage = () => {
   return (
     <Stack align="center" position="relative">
       <Head>
-        <title>’𝖈𝖍𝖎𝖊𝖛𝖊: 𝓥ⲓⲉⲱ #{nftId}</title>
+        {/* <title>’𝖈𝖍𝖎𝖊𝖛𝖊: 𝓥ⲓⲉⲱ #{nftId}</title> */}
+        <title>Claim Token View #{nftId}</title>
+
         <meta
           name="description"
-          content="MetaGame’s ’Chievemint NFTs"
-        />
+          // content="MetaGame’s ’Chievemint NFTs"
+          content="SmartLaw Claim Tokens"
+/>
       </Head>
       <HomeLink/>
       {name && <Heading>{name}</Heading>}

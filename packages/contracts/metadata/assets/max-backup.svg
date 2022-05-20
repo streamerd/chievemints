@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 209.76367 275.64371"
+   version="1.1"
+   id="svg9694"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="max.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9696"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.6233469"
+     inkscape:cx="129.30034"
+     inkscape:cy="129.85232"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9691" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.13603409,-0.50553234)">
+    <g
+       id="g61119"
+       transform="matrix(0.85396171,0,0,0.85396171,-407.24702,-403.32251)">
+      <rect
+         style="fill:#f9f9f7;fill-opacity:1;stroke:#0d0d0d;stroke-width:6.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect40508"
+         width="239.43593"
+         height="316.58228"
+         x="480.15073"
+         y="475.98776"
+         ry="24.379158" />
+      <text
+         xml:space="preserve"
+         style="font-size:79.375px;line-height:0.85;font-family:sans-serif;stroke-width:0.264583"
+         x="597.65308"
+         y="561.00116"
+         id="text13513"><tspan
+           sodipodi:role="line"
+           id="tspan13511"
+           style="font-weight:bold;font-size:79.375px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="597.65308"
+           y="561.00116">SET</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:79.375px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="597.65308"
+           y="628.46991"
+           id="tspan13515">MAX</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:229.306px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="607.33856"
+         y="763.65369"
+         id="text26105"><tspan
+           sodipodi:role="line"
+           id="tspan26103"
+           style="font-size:229.306px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="607.33856"
+           y="763.65369">𝒙</tspan></text>
+    </g>
+  </g>
+</svg>
